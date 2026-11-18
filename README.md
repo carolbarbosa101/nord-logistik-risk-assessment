@@ -2,11 +2,11 @@
 This project focuses on identifying assessing and mitigating cybersecurity risks.
 In a fictional Swedish logistics company, Nord logistik AB.
 
-# Business Scenario
+## Business Scenario
 Nord Logistik AB is a Swedish logistics company with approximately 50 employees and an annual turnover of SEK 70 million.
 The company uses Microsoft 365, cloud-based business systems, a local financial server and a transport management application.
 
-# Project Objectives
+## Project Objectives
 
 Identify and classify critical information assets.
 Assess cybersecurity risks and business impact.
@@ -15,7 +15,7 @@ Recommend appropriate security controls.
 Develop a risk treatment and action plan.
 Connect recommendations to recognized cybersecurity frameworks.
 
-# Methodology
+## Methodology
 
 The assessment follows a structured approach:
 Asset Identification and Classification.
@@ -25,13 +25,14 @@ Risk Treatment.
 Security Recommendations.
 Management Reporting.
 
-# Frameworks and concepts
-ISO/IEC 27001:2022
-NIS2 Directive
-GDPR
-CIA Triad (Confidentiality, Integrity and Availability)
-Risk Management
-Access Control and MFA
+## Frameworks and concepts
+- [x] ISO/IEC 27001:2022
+- [x] NIS2 Directive
+- [x] GDPR
+- [x] CIA Triad (Confidentiality, Integrity and Availability)
+- [x] Risk Management
+- [x] Access Control and MFA
 
-# Disclaimer
-# This is an educational case study based on a fictional company. The assessment does not represent a real security audit or certification assessment.
+
+> [!IMPORTANT]
+> This is an educational case study based on a fictional company. The assessment does not represent a real security audit or certification assessment
